@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B295141-3607-4B60-ACB0-504B58175940}|Multi-threaded programming.vcxproj|D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B295141-3607-4B60-ACB0-504B58175940}|Multi-threaded programming.vcxproj|solutionrelative:d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B295141-3607-4B60-ACB0-504B58175940}|Multi-threaded programming.vcxproj|D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B295141-3607-4B60-ACB0-504B58175940}|Multi-threaded programming.vcxproj|solutionrelative:c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B295141-3607-4B60-ACB0-504B58175940}|Multi-threaded programming.vcxproj|D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B295141-3607-4B60-ACB0-504B58175940}|Multi-threaded programming.vcxproj|solutionrelative:b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B295141-3607-4B60-ACB0-504B58175940}|Multi-threaded programming.vcxproj|D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B295141-3607-4B60-ACB0-504B58175940}|Multi-threaded programming.vcxproj|solutionrelative:a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 259,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "d.cpp",
+              "DocumentMoniker": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\d.cpp",
+              "RelativeDocumentMoniker": "d.cpp",
+              "ToolTip": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\d.cpp*",
+              "RelativeToolTip": "d.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T06:21:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "b.cpp",
+              "DocumentMoniker": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\b.cpp",
+              "RelativeDocumentMoniker": "b.cpp",
+              "ToolTip": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\b.cpp",
+              "RelativeToolTip": "b.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T13:20:25.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "a.cpp",
+              "DocumentMoniker": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\a.cpp",
+              "RelativeDocumentMoniker": "a.cpp",
+              "ToolTip": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\a.cpp",
+              "RelativeToolTip": "a.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T13:20:22.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "c.cpp",
+              "DocumentMoniker": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\c.cpp",
+              "RelativeDocumentMoniker": "c.cpp",
+              "ToolTip": "D:\\\u684C\u9762\\C\u002B\u002B\u9879\u76EE\\Multi-threaded programming\\c.cpp",
+              "RelativeToolTip": "c.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T11:39:09.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
